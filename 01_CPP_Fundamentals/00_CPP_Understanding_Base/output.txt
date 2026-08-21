@@ -1,0 +1,2 @@
+Array value inside function :101
+Array value inside main :101
